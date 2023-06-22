@@ -23,7 +23,7 @@ Enabling the E46 Seat Memory with Arduino and LIN-Bus breakout board to send K-B
 | LIN-Bus Breakout Board | Seat Harness     |
 |:----------------------:| ----------------:|
 | VBAT                   | 12 v Positive    |
-| GND                    | 12 v Netative    |
+| GND                    | 12 v Negative    |
 | LIN                    | K-Bus (Rd/Wh/Yl) |
 
   # Wiring Diagram
