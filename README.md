@@ -27,4 +27,4 @@ Enabling the E46 Seat Memory with Arduino and LIN-Bus breakout board to send K-B
 | LIN                    | K-Bus (Rd/Wh/Yl) |
 
   # Wiring Diagram
-! ()
+![Arduino Pro Mini LIN Bus](https://github.com/handro123/E46_Seat_Memory_K-Bus/assets/838689/b4874da7-a2ef-43ef-b70c-d0358c591151)
