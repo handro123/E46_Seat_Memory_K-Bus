@@ -1,6 +1,11 @@
 # E46 Seat Memory K-Bus with Arduino and LIN-Bus breakout board
 Enabling the E46 Seat Memory with Arduino and LIN-Bus breakout board to send K-Bus messages. 
 
+# Source
+Thank you to [Cars Electronics and Machining](https://www.youtube.com/@carselectronicsandmachinin4905) on YouTube for the great video that shows how to do this along with the Arduino code. 
+
+[BMW Memory seat function, without the car K-BUS using an Arduino, E46 E53 E63](https://www.youtube.com/watch?v=_w843sGQGsc)
+[![BMW Memory seat function, without the car K-BUS using an Arduino, E46 E53 E63](https://img.youtube.com/vi/_w843sGQGsc/0.jpg)](https://youtu.be/_w843sGQGsc)
 
 # Hardware
 - Arduino Pro Mini (or any Arduino that has required pins)
