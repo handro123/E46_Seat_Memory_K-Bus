@@ -34,3 +34,7 @@ Thank you to [Cars Electronics and Machining](https://www.youtube.com/@carselect
   # Wiring Diagram
 ![Arduino Pro Mini LIN Bus](https://github.com/handro123/E46_Seat_Memory_K-Bus/assets/838689/059a3339-57ac-4c22-aef8-4372438c174b)
 
+# Demo
+Demo video here: https://www.youtube.com/shorts/hXWrDF9REAo
+
+[![Demo Video](https://img.youtube.com/vi/hXWrDF9REAo/0.jpg)](https://youtu.be/hXWrDF9REAo)
