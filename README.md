@@ -1,7 +1,7 @@
 # E46 Seat Memory K-Bus with Arduino and LIN-Bus breakout board
 Enabling the E46 Seat Memory with Arduino and LIN-Bus breakout board to send K-Bus messages. 
 
-By default this will make the seat think the car is in Ignition Accessory mode. This enabled the 1-touch seat adjustment, but you should not leave it in this mode while driving. 
+By default this will make the seat think the car is in Ignition Accessory mode. This enables the 1-touch seat adjustment, but you should not leave it in this mode while driving. 
 
 You can change this while the Adruino is powered on and running by temporarily shorting Ground (GND) to the respective Digital I/0 pins 2-6.
 
