@@ -32,7 +32,8 @@ Thank you to [Cars Electronics and Machining](https://www.youtube.com/@carselect
 | LIN                    | K-Bus (Rd/Wh/Yl) |
 
   # Wiring Diagram
-![Arduino Pro Mini LIN Bus](https://github.com/handro123/E46_Seat_Memory_K-Bus/assets/838689/059a3339-57ac-4c22-aef8-4372438c174b)
+![Arduino Pro Mini LIN Bus drawio](https://github.com/handro123/E46_Seat_Memory_K-Bus/assets/838689/6804743d-521b-4f33-a856-57241bd6940e)
+
 
 # Demo
 Demo video here: https://www.youtube.com/shorts/hXWrDF9REAo
