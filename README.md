@@ -22,7 +22,7 @@ The different options are:
 
 
 # Source
-Thank you to [Cars Electronics and Machining](https://www.youtube.com/@carselectronicsandmachinin4905) on YouTube for the great video that shows how to do this along with the Arduino code. 
+Thank you to [Cars Electronics and Machining](https://www.youtube.com/@carselectronicsandmachinin4905) on YouTube for the great video that shows how to do this along with the Arduino code. None of thise would have been possible for me without this video as I would have no idea how to start with the wiring or coding. 
 
 [BMW Memory seat function, without the car K-BUS using an Arduino, E46 E53 E63](https://www.youtube.com/watch?v=_w843sGQGsc)
 [![BMW Memory seat function, without the car K-BUS using an Arduino, E46 E53 E63](https://img.youtube.com/vi/_w843sGQGsc/0.jpg)](https://youtu.be/_w843sGQGsc)
