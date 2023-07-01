@@ -82,7 +82,7 @@ To go the extra mile I designed a custom PCB to hold the Arduino, LIN-Bus Breako
 
 ## Assembly
 
-I soldered female headers onto the PCB and male header pins onto everything to make it easily removeable if needed. Only place where I couldn't find headers were for the 3.5mm pitch on the LIN-Bus Breakout Board output, so those wires are soldered to the PCB and then screw into the terminal block. Alternativly you can solder everything directly to the PCB and use some 3.5mm pitch male headers like below, but you have desolder the terminal block first. 
+I soldered female headers onto the PCB and male header pins onto everything to make it easily removeable if needed. Only place where I couldn't find headers were for the 3.5mm pitch on the LIN-Bus Breakout Board output, so those wires are soldered to the PCB and then screw into the terminal block. See below pictures for how I did it. Alternativly you can solder everything directly to the PCB and use some 3.5mm pitch male headers like below, but you have desolder the terminal block first. 
 https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/1986717-3/3283614
 
 ![3-5mm_pitch_header-1986717-3](https://github.com/handro123/E46_Seat_Memory_K-Bus/assets/838689/d4dfacfe-0f54-4989-81d5-a58356d82baa)
