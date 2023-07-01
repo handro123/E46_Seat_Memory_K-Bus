@@ -72,12 +72,13 @@ To go the extra mile I designed a custom PCB to hold the Arduino, LIN-Bus Breako
 |-----------------|------------------|------------------------------------|
 | Arduino Pro Mini 5v | https://www.adafruit.com/product/2378 / https://www.sparkfun.com/products/11113      |  |
 | SK Pang LIN-Bus Breakout Board | https://www.skpang.co.uk/products/lin-bus-breakout-board      |  |
-| HiLetgo 5pcs LM2596S-ADJ Power Module DC-DC Buck Regulator 3A Adjustable 5V/12V/24V | https://www.amazon.com/dp/B00LTSC564 | MAKE SURE TO SET IT TO 5V BEFORE PLUGGING INTO ARDUINO |
+| HiLetgo 5pcs LM2596S-ADJ Power Module DC-DC Buck Regulator 3A Adjustable 5V/12V/24V | https://www.amazon.com/dp/B00LTSC564/ | MAKE SURE TO SET IT TO 5V BEFORE PLUGGING INTO ARDUINO |
 | 100pcs Male Header Pins, Lystaii Straight Single Row 40 Pin 0.1 Inch (2.54mm) Male Pin Header Connector PCB Board Pin Connector Electronic Component Raw Materials | https://www.amazon.com/dp/B06ZZN8L9S/ | |
-| Ruibapa 120PCS 2.54mm Female Pin Header Socket Connector Strip Assortment Kit Straight Single Row PCB Board Pin Header 4,6,8,10,12,16,20,40Pin P-037 | https://www.amazon.com/dp/B0B96WXT46 | |
-| OCR 180Pcs Tactile Push Button Switch 10 Values 6x6mm Micro Momentary Tact Button Switches Assortment Kit | https://www.amazon.com/dp/B01MRP025V | The buttons should be able to go on either the front or the back. |
+| Ruibapa 120PCS 2.54mm Female Pin Header Socket Connector Strip Assortment Kit Straight Single Row PCB Board Pin Header 4,6,8,10,12,16,20,40Pin P-037 | https://www.amazon.com/dp/B0B96WXT46/ | |
+| OCR 180Pcs Tactile Push Button Switch 10 Values 6x6mm Micro Momentary Tact Button Switches Assortment Kit | https://www.amazon.com/dp/B01MRP025V/ | The buttons should be able to go on either the front or the back. |
 | PCB Terminal Blocks, Header, Wire-to-Board, 3 Position, .138 in [3.5 mm] Centerline, 1 Row, 30 – 14 AWG Wire Size, .05 – 2 mm² Wire Size | https://www.te.com/usa-en/product-284512-3.html / https://www.digikey.com/en/products/detail/284512-3/A98397-ND/1131591 | You may be able to find a substitute on Amazon, but the spacing and offset from the edge of the PCB is specifically for this. |
 | PCB Terminal Blocks, Plug, Wire-to-Board, 3 Position, .138 in [3.5 mm] Centerline, 1 Row, 180° Wire Entry Angle, 30 – 14 AWG Wire Size | https://www.te.com/usa-en/product-284506-3.html / https://www.digikey.com/en/products/detail/284506-3/A98374-ND/1131590 | You may be able to find a substitute on Amazon. |
+| MakerSpot Raspberry Pi Nylon Standoff Kit M2.5 Screws Nuts Spacers Standoffs 210pcs for DIY Building of Raspberry Pi 4 Pi 3 Pi Zero FPV RC Quadcopter Drone PC Mods | https://www.amazon.com/gp/product/B0788FR59P/ | For the LIN-Bus Breakout Board and 12v to 5v buck converter to hold them in place. |
 
 ## Assembly
 
