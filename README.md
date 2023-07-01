@@ -49,7 +49,7 @@ Thank you to [Cars Electronics and Machining](https://www.youtube.com/@carselect
 |------------------------|:-----------------|
 | VBAT                   | 12 v Positive    |
 | GND                    | 12 v Negative    |
-| LIN                    | K-Bus (Rd/Wh/Yl) |
+| LIN                    | K-Bus (Red/White/Yellow dash) |
 
   # Wiring Diagram
 ![Arduino Pro Mini LIN Bus drawio](https://github.com/handro123/E46_Seat_Memory_K-Bus/assets/838689/6804743d-521b-4f33-a856-57241bd6940e)
